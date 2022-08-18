@@ -13,8 +13,3 @@ RUN pip install -r ./app/requirements.txt
 
 CMD ["python3", "./app/main.py"]
 
-#COPY service/ /app
-
-#/usr/;local/bin/gunicorn \
- #  -b 0.0.0.0 80
- #  -w 4 \

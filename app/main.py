@@ -23,4 +23,4 @@ if __name__ == '__main__':
     uvicorn.run(app)
 
 
-#bron: https://www.youtube.com/watch?v=qQNGw_m8t0Y
+#sources: https://www.youtube.com/watch?v=qQNGw_m8t0Y -> Michael Kennedy
